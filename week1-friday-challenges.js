@@ -70,9 +70,12 @@ const totalOdds = oddCountFunc(countNumber);
 console.log(totalOdds);
 
 // Create a multiplication table for numbers up to 10
-const multiplicationTable = [] {
+const multiplicationTable = parseInt(1)
+for(let i = 0; i < 10; i++){
   
-}
+    result =
+  }
+
 
 //Check if a string is a palindrome
 const isPalindrome = str => {
